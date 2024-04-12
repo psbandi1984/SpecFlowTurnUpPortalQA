@@ -1,2 +1,1 @@
 # SpecFlowTurnUpPortalQA
-Automate Turpup portal
